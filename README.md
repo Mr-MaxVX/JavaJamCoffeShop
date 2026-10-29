@@ -1,6 +1,6 @@
 # JavaJam Coffee House: HTML Fundamentals
 
-This project represents Lab 2 of my Web Development coursework, serving as a practical foundation in core HTML markup. It features a fully structured, multi-page static website for a fictional coffee shop, built entirely from scratch to demonstrate essential front-end mechanics. 
+This project represents a series of Labs in my Web Development coursework, serving as a practical foundation in core HTML markup. It features a fully structured, multi-page static website for a fictional coffee shop, built entirely from scratch to demonstrate essential front-end mechanics. 
 
 While it currently relies on pure, basic HTML without advanced CSS styling, this project lays the essential structural groundwork for web architecture. It might just be the basics today, but it is definitely the start of something much bigger! (⌐■_■)
 
